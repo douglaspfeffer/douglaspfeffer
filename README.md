@@ -12,9 +12,7 @@
 
   <a href="https://instagram.com/dougfeffer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230A0A0A?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    
-   <!---
-   <a href="https://www.linkedin.com/in/juliaingrid" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   --->
+   <a href="https://www.linkedin.com/in/douglaspfeffer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
 </div>
 
