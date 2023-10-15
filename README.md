@@ -8,7 +8,9 @@ After my graduation, I decided to start learning more about it and now I'm learn
 
 I love traveling, discovering new cultures, watching K-dramas and anime in my free time 😁
 
-Feel free to check out my repositories and contact me if you want 👋
+Thank you for visiting my profile! Feel free to check out my repositories and contact me if you want 👋
+
+_❝No matter how much you know, there is always more to learn. After all, life is an eternal learning experience.❞_
 
 ## Connect whith me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/douglaspfeffer/)
