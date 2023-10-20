@@ -1,11 +1,11 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png">
 
 # Douglas Pfeffer
-I'm graduated in Mechatronics Engineering from the University of Salvador (UNIFACS) in 2021 and currently in an exciting transition process into the programming area. I'm actively seeking my first professional opportunity in this area, and determined to acquire new knowledge and add value to the company's growth in my new career.
+I graduated in Mechatronics Engineering from the University of Salvador (UNIFACS) in 2021 and am currently in an exciting transition process into the field of programming. I am actively seeking my first professional opportunity in this area and am determined to acquire new knowledge and contribute to the company's growth in my new career.
 
-My journey so far has provided me with valuable skills, such as a quick learning ability, discipline, and strong logical foundations, which I consider essential for success in programming. I have a strong interest and passion for technology and I'm eager to apply these qualities and commitment in my new programming career.
+My journey so far has equipped me with valuable skills, including the ability to learn quickly, discipline, and a strong foundation in logic, which I believe are essential for success in programming. I have a strong interest and passion for technology and am eager to apply these qualities and commitment to my new programming career.
 
-If you'd like to connect or discuss collaboration opportunities in the programming area, I'm available for conversations.
+If you would like to connect or discuss collaboration opportunities in the programming field, I am available for conversations.
 
 _❝No matter how much you know, there is always more to learn. After all, life is an eternal learning experience.❞_
 
@@ -16,6 +16,8 @@ _❝No matter how much you know, there is always more to learn. After all, life 
 
 ## Currently Studying
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 ## Tools
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=)](https://git-scm.com/doc)
