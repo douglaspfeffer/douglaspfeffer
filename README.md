@@ -15,9 +15,10 @@ _❝No matter how much you know, there is always more to learn. After all, life 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp)](https://wa.me/557191011650)
 
 ## Currently Studying
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Tools
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=)](https://git-scm.com/doc)
